@@ -5,7 +5,7 @@ package com.mycompany.app;
  */
 public class App {
 
-    private static final String MESSAGE = "Hello World-test WebHook4!";
+    private static final String MESSAGE = "Hello World-test WebHook5!";
 
     public App() {}
 
